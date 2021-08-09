@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAZLUnuhV62Ss5mgoA6EZiv0WOJiGK6ios4UFaLlxB3ts/0l0e255Lx57iPTpzCdyzJE2/r130Ih/PDfiXC05g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lbalo\\OneDrive\\Documents\\SmartTechnologies\\src\\SelfDrivingCar\\SelfDrivingCar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
