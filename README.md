@@ -42,4 +42,5 @@ This will drop a binary in `./bin/[configuration]/[framework]/[rid]/[binary name
 
 For more details, please refer to the [documentation](https://github.com/dotnet/corert/tree/master/Documentation).
 
-  dotnet test- go to testing folder directory and then run this command
+
+  	dotnet test- go to testing folder directory and then run this command
